@@ -79,4 +79,9 @@ public class Producto {
             System.out.println((categoria.ordinal() + 1) + " - " + categoria.name());
         }
     }
+
+	public String getNombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
