@@ -9,8 +9,8 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import ar.edu.unju.fi.ejercicio1.Model.Producto.Categoria;
-import ar.edu.unju.fi.ejercicio1.Model.Producto.OrigenFabricacion;
+import ar.edu.unju.fi.ejercicio1.model.Producto.Categoria;
+import ar.edu.unju.fi.ejercicio1.model.Producto.OrigenFabricacion;
 import ar.edu.unju.fi.ejercicio5.model.Producto;
 public class Main {
 
